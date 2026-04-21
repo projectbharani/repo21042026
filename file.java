@@ -34,4 +34,5 @@ public class SpiralPatternExample2 {
         printPattern(n);
     }
 }
-
+seond line 
+third line
